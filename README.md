@@ -51,6 +51,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zgii&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)](https://github.com/tamersum11/tamersum11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zgii&layout=compact&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026)](https://github.com/Zgii/Zgii)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Zgii alt=Zgii/> </p>
